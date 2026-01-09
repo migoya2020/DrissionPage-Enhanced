@@ -1,0 +1,14 @@
+include README_ENHANCED.md
+include LICENSE
+include QUICKSTART.md
+include ENHANCEMENTS.md
+include ENHANCEMENTS_README.md
+include ENHANCED_FEATURES.md
+include WEBSOCKET_LISTENER.md
+include MIGRATION_GUIDE.md
+include ENHANCEMENT_SUMMARY.md
+include IMPLEMENTATION_REPORT.md
+include INDEX.md
+include FINAL_SUMMARY.md
+include PUBLISHING_GUIDE.md
+recursive-include DrissionPage *.py *.pyi *.ini *.dat
